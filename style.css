@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 4rem auto 7rem;
+    width: 50vw;
+}
+
+#input{
+    padding: 10px;
+    margin: 10px;
+}
+
+#calculate{
+    padding: 2px;
+    margin: 10px;
+    border-radius: 5rem;
+    border-color: white;
+    width: 5rem;
+    background-color: azure;
+    
+}
+
+#show{
+    color: red;
+}
